@@ -1,1 +1,1 @@
-# CCSCI 4460/6460 Team J
+# Large Scale Programming and Testing (CSCI 4460)
